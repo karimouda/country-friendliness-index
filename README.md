@@ -1,0 +1,2 @@
+# country-friendliness-index
+TBD
