@@ -1,0 +1,23 @@
+{
+  "name": "data-extraction",
+  "version": "1.0.0",
+  "description": "Fetchs Data from Google Maps Places API",
+  "main": "fetch_reviews.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimouda/country-friendliness-index.git"
+  },
+  "author": "Karim Ouda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karimouda/country-friendliness-index/issues"
+  },
+  "homepage": "https://github.com/karimouda/country-friendliness-index#readme",
+  "dependencies": {
+    "request-promise-native": "^1.0.8",
+    "sleep": "^6.1.0"
+  }
+}
