@@ -20,4 +20,4 @@ Use analysis/reviews-analysis.R (R Studio) and make sure to set your working dir
 
 # Credits
 
-The file "data-extraction/countries.json" belongs to the https://github.com/annexare/Countries repo
+The "data-extraction/countries.json" file belongs to the https://github.com/annexare/Countries repo
