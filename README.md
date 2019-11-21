@@ -2,6 +2,8 @@
 
 This repository contains the data extraction and analysis code used to produce the country-friendliness-index research story that was posted on medium 
 
+https://towardsdatascience.com/top-10-customer-friendly-countries-based-on-google-maps-edef2cd396e
+
 
 # How can you use the code
 
